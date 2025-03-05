@@ -1,2 +1,2 @@
-# general
-Jupyter notebooks containing the implementation of machine learning algorithms using public datasets
+# General
+This repository contains Jupyter notebooks that implement machine learning algorithms using data from public datasets. 
